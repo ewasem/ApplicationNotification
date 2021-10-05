@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745526079587",
+    "project_id": "applicationnotification-d184d",
+    "storage_bucket": "applicationnotification-d184d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745526079587:android:857800a7183be763580856",
+        "android_client_info": {
+          "package_name": "com.ewapps.applicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745526079587-qiosif1q6i73jnj4vmbpg0bmcrtf9t7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCejfSxpGr_WqCeHfUJXamon9eoCK7VXMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745526079587-qiosif1q6i73jnj4vmbpg0bmcrtf9t7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
